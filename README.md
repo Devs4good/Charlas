@@ -1,6 +1,3 @@
-# Charlas
-Espacio para proponer charlas a dar en los Meetups de **[`Devs4Good`](http://www.developersforgood.com)**.
-
 # Charlas para Devs4Good [![Unite a nuestro Slack!](https://developers4good.herokuapp.com/badge.svg)](http://slack.developersforgood.com)
 
 Espacio para proponer charlas a dar en los meetups de 

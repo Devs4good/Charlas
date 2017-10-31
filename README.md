@@ -33,15 +33,4 @@ Por favor compartí una **URL** a tus slides.
 
 ¡Gracias por participar!
 
----
-
-## Charlas anteriores
-
-| Charla                                                                              | Autor                                                     | Fecha    |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- |
-| [SmallTalk](https://www.10pines.com/)                                     | [Proximamente](https://twitter.com/)        | 29/10/17 |
-
-## Charlas grabadas
-
-- [Proximamente](https://www.youtube.com)
 
